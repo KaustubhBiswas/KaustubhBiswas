@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaustubhBiswas
 - 👀 I’m interested in Software Development and Backend Engineering.
-- 🌱 I’m currently learning App Development using Flutter and Dart.
+- 🌱 I’m currently learning Full stack Development using MERN Stack.
 - 💞️ I’m looking to collaborate on Application-based projects.
 - 📫 How to reach me:
   instagram: https://www.instagram.com/kaustubhbiswas/
