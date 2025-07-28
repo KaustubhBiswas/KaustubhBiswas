@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full stack Development using MERN Stack.
 - 💞️ I’m looking to collaborate on Application-based projects.
 - 📫 How to reach me:
-  instagram: https://www.instagram.com/kaustubhbiswas/
   LinkedIn: https://www.linkedin.com/in/kaustubh-biswas-7902a3251
 
 <!---
