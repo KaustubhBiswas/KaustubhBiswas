@@ -1,5 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Kaustubh Biswas</h1> -->
 
+<img width="1584" height="396" alt="Github Profile Banner" src="https://github.com/user-attachments/assets/1562a785-61cd-4af9-82f6-9c5e69670d41" />
 
 <h3 align="center">A passionate software developer, with a strong interest in problem solving, motivated to build software solutions that serve business and human purposes.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaustubhBiswas&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhbiswas" /> </p>
