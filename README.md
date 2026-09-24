@@ -105,15 +105,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
+------------------------------------------------------------------------------------
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-alpha-ten-71.vercel.app/api?username=KaustubhBiswas&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Kaustubh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-alpha-ten-71.vercel.app/api/top-langs/?username=KaustubhBiswas&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api?username=KaustubhBiswas&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="Kaustubh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=KaustubhBiswas&layout=compact&langs_count=8&theme=transparent" /></a> |
 | ------------- | ------------- |
 
 [![@Kaustubh's Holopin board](https://holopin.me/KaustubhBiswas)](https://holopin.io/@KaustubhBiswas)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaustubhBiswas)](https://github.com/KaustubhBiswas/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaustubhBiswas)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
