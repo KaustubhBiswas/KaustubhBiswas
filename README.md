@@ -106,7 +106,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
-------------------------------------------------------------------------------------
+
+---
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api?username=KaustubhBiswas&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="Kaustubh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=KaustubhBiswas&layout=compact&langs_count=8&theme=transparent" /></a> |
 | ------------- | ------------- |
